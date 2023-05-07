@@ -21,9 +21,9 @@
 ## Patrocinadores
 * Quer patrocinar os projetos do Jexactyl BR? [Doe aqui.](https://discord.gg/naotemainda)*
 
-| Empresa | Sobre | Link |
-| ------- | ----- | ------- |
-Nenhuma Por enquanto...
+|    Empresa   | Link |
+| ------------ | -----|
+| KoramHosting ||[Koram](https://dash.koramhosting.xyz/)
 
 ## API
 
