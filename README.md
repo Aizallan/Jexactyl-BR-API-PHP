@@ -18,19 +18,14 @@
         Dê a seus usuários a vantagem em termos de desempenho, confiabilidade e pura funcionalidade.
     </strong>
     
-## Patrocinadores
-* Quer patrocinar os projetos do Jexactyl BR? [Doe aqui.](https://discord.gg/naotemainda)*
-
-|    Empresa   | Link |
-| ------------ | -----|
-| KoramHosting ||[Koram](https://dash.koramhosting.xyz/)
-
+    
 ## API
 
 ## PHP
 
 ## PROJETOS
 | Litematic BR | [Download](https://github.com/Aizallan/Litematic-Convert-BR/raw/main/Litematic%20Convert.jar)
+    
 ### Isenção de responsabilidade
 * A Jexactyl Brasil não é de forma alguma afiliada ao [Jexactyl](https://jexactyl.com), somos um grupo de pessoas que decidirão trazer esse belo painel para a nossa língua (Portugues).
 * De forma alguma o Jexactyl-BR é afiliado de alguma forma ao [Pterodactyl®](https://pterdoactyl.io) ou ao [Jexactyl](https://jexactyl.com).
